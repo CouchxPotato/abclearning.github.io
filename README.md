@@ -11,6 +11,5 @@ On the User Management Page, the admins of the website can manage the users regi
 All the members along with their info will be added to automatically when they enter their details in the form. 
 
 NOTE: 
-# The "Register" button will apear only on the home page and not the other pages. 
-# You might not be able to see the icons used for the social media on the website if you open it using the github link as the icons are used from a folder and not using
-  a CDN link, if needed, you may insert the CDN link for the icons. 
+1.  The "Register" button will apear only on the home page and not the other pages. 
+2.  You might not be able to see the icons used for the social media on the website if you open it using the github link as the icons are used from a folder and not         using a CDN link, if needed, you may insert the CDN link for the icons. 
